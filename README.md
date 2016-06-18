@@ -10,9 +10,11 @@ __RPD-CSSNaming__（ラピッドCSSネーミング）は、BEM、OOCSS、SMACSS�
 の2つに気を付けて行います。
 
 モジュールは主に  
+
 1. Base
-1. レイアウト・機能（LF:Layout and Function）
-1. 従属
+1. レイアウト・機能（LF:Layout/Function）モジュール
+1. 従属モジュール
+
 の3種に大別されます。  
 これらのクラス名づけを「役割」「使用範囲」「詳細」とします。
 
