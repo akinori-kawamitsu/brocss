@@ -87,8 +87,8 @@ LFモジュールとは明確に判別する必要があるため、dep(depend)�
 
 
 ####Role（役割）
-レイアウトでは、'header, main, sidebar, footer,　container, contents, row, col 'など、レイアウトをあらわす単語が入ります。  
-機能では、'title, lead, btn, form, caption, menu, card, search 'など、何らかの機能を示す単語が入ります。  
+レイアウトでは、′header, main, sidebar, footer,　container, contents, row, col ´など、レイアウトをあらわす単語が入ります。  
+機能では、´title, lead, btn, form, caption, menu, card, search ′など、何らかの機能を示す単語が入ります。  
 
 実際にはレイアウトと機能の両方の性質を持っているモジュールもあるので、名づけにおいては区別せずに扱います。  
 （厳密に区別したい場合の最善の方法は、CSSフレームワークのグリッドシステムを流用することです）
