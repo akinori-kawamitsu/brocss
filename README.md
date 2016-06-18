@@ -96,11 +96,11 @@ LFモジュールとは明確に判別する必要があるため、dep(depend)�
 ####Position（使用場所/担当範囲）
 レイアウトと機能ではPositionの意味合いが少し異なるものになります。
 
-Layoutに該当するの場合、そのが使われる場所を限定します。すべてのページやメディアで共通であれば、Positionを入れる必要はありません。
+レイアウトの場合、それが使われる場所を限定します。すべてのページやメディアで共通であれば、Positionを入れる必要はありません。
 
     例： header-home, header-category, header-post, col-sm, col-lg など。
 
-Moduleに該当するの場合、Role内での担当範囲という意味になります。
+機能の場合、Role内での担当範囲という意味になります。
 
     例: menu-item, caption-img, caption-text, card-title, card-excerpt など。
 
